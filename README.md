@@ -17,6 +17,21 @@ Antes de iniciar, certifique-se de que você tenha o seguinte instalado em seu a
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/) como gerenciador de pacotes.
-- [Expo CLI](https://docs.expo.dev/workflow/expo-cli/) para desenvolvimento React Native.
 
-## Instalação
+## Dependencias 
+
+    react-native-voice/voice
+    
+    react-navigation
+    
+    axios
+    
+    react-native
+    
+    react-native-gesture-handler
+    
+    react-native-tts
+    
+    styled-components
+    
+    typescript
