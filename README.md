@@ -10,7 +10,6 @@ O Voice Tutor é um aplicativo móvel desenvolvido em React Native que permite a
 
 - **Respostas em Texto e Voz**: As respostas são exibidas em texto na interface do aplicativo e também podem ser lidas em voz alta para os usuários.
 
-- **Histórico de Perguntas**: O aplicativo mantém um histórico das perguntas anteriores dos usuários para referência futura.
 
 ## Pré-requisitos
 
