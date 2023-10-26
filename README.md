@@ -18,7 +18,7 @@ Antes de iniciar, certifique-se de que você tenha o seguinte instalado em seu a
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/) como gerenciador de pacotes.
 
-## Dependencias 
+## Dependencias/Bibliotecas usadas
 
     react-native-voice/voice
     
